@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\omkar>jshell
+|  Welcome to JShell -- Version 22.0.1
+|  For an introduction type: /help intro
+
+jshell> System.out.print("Hello World");
+Hello World
+jshell>
