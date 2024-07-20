@@ -74,6 +74,8 @@ public class _33_SuperAndThis {
 	public static void main(String[] args) {
 
 		B obj = new B();
+
+		obj.hashCode();
 		// B obj = new B(5);
 	}
 
