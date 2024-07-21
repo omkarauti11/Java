@@ -4,7 +4,7 @@ interface A {
 
 }
 
-public class _58_Labda {
+public class _58_Lambda {
 
     public static void main(String[] args) {
 
